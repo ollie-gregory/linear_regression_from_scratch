@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+*/__pycache__/
+*/__pycache__/*
+
+*/.venv/
+*/.venv/*
